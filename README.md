@@ -1,2 +1,4 @@
 # hello-world
-菜鸡试水
+import time
+time(3)
+print("This is Xiang who first get to know github")
